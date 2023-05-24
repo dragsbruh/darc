@@ -15,6 +15,8 @@ Darc is currently a concept.
 ## Contribution
 
 I dont know about this stuff so feel free to fork this and modify it.
-Darc is licensed under a custom license called NWOLOL license.
+Darc is licensed under a custom license called [Kira Public License](https://github.com/dragsbruh/KPL).
 
 ## License
+
+This project is licensed under the [Kira Public License](https://github.com/dragsbruh/KPL).
